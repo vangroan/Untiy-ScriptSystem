@@ -1,0 +1,7 @@
+{
+    "name": "com.vangroan.unity-script-system",
+    "version": "0.0.0",
+    "displayName": "Script System",
+    "description": "Runtime compilation and execution of C# code using the Roslyn compiler toolchain.",
+    "unity": "2018.4"
+}
